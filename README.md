@@ -33,10 +33,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=HanSoi&show_icons=true&theme=radical" alt="HanSoi's GitHub stats" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanSoi&theme=radical" alt="HanSoi's GitHub streak stats" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanSoi&layout=compact&theme=radical" alt="Top Languages" />
+   <img src="https://github-readme-stats.vercel.app/api?username=HannSammDev&show_icons=true&theme=radical" alt="HannSammDev's GitHub stats" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HannSammDev&theme=radical" alt="HannSammDev's GitHub streak stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HannSammDev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 
 ---
 
