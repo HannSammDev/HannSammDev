@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hann Samm A. Beleganio</h1>
-<h3 align="center">A passionate fullstack developer, building awesome things</h3>
+<h3 align="center">A passionate full-stack developer student, building awesome things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HanSoi&label=Profile%20views&color=0e75b6&style=flat" alt="HanSoi" /> </p>
 
